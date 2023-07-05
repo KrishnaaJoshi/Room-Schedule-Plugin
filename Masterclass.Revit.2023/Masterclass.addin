@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>Masterclass</Name>
+        <Assembly>Masterclass\Masterclass.Revit.2023.dll</Assembly>
+        <FullClassName>Masterclass.Revit.AppCommand</FullClassName>
+        <AddInId>FE8DBD5C-DE29-442D-8A78-C9AED2A35CE5</AddInId>
+        <VendorId>Krishna Joshi</VendorId>
+        <VendorDescription>https://github.com/KrishnaJoshi-BIM</VendorDescription>
+    </AddIn>
+</RevitAddIns>
+

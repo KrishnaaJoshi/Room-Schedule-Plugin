@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Masterclass.Revit.SharedProject", "Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.shproj", "{E14C15D2-3AA3-4C89-A480-54CC6B9C7C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterclass.Revit.2023", "Masterclass.Revit.2023\Masterclass.Revit.2023.csproj", "{45D88261-E63B-4B67-9C44-DE79E76F66E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D88261-E63B-4B67-9C44-DE79E76F66E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D88261-E63B-4B67-9C44-DE79E76F66E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D88261-E63B-4B67-9C44-DE79E76F66E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D88261-E63B-4B67-9C44-DE79E76F66E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1BB454-AB63-409C-8722-2F94EEC59142}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{45d88261-e63b-4b67-9c44-de79e76f66e1}*SharedItemsImports = 4
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{e14c15d2-3aa3-4c89-a480-54cc6b9c7c90}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
